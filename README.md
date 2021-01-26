@@ -8,3 +8,6 @@ Used the following models
 - Pruned Decision Tree
 - LDA
 - KNN 
+
+Got the confusion matrix, found out sensitivity, sensibility,
+Precision score, recall and F1 score along with ROC curve
